@@ -1,4 +1,7 @@
-streamlit
+Pillow==10.4.0
+protobuf==5.27.2
+python-dotenv==1.0.1
+streamlit==1.36.0
 google-generativeai
 python-dotenv
 langchain
